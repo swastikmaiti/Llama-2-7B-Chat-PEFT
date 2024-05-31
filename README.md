@@ -10,6 +10,8 @@ Here we limit to application to GPTQ quantization and LoRA PEFT.
 
 Parameter Efficient Finetuning(PEFT) a 4bit quantized Llama-2-7b-Chat from TheBloke/Llama-2-7b-Chat-GPTQ on flytech/python-codes-25k dataset.
 
+<img src="https://github.com/swastikmaiti/Llama-2-7B-Chat-PEFT/blob/5dc74f8982916384bb73a010d006c3669e9a35a1/llama2-peft.png">
+
 # Description
 
 LLM drawbacks are they are LLM :smiley: . LLM parameters now range in Billions scale. While their performance keeps increasing, 
