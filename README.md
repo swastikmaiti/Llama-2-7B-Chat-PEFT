@@ -26,13 +26,13 @@ conventianlly it makes more sense to update a subset of parameters yielding bett
 - inference.ipynb:- Performing sanity check on finetuned model.
 
 # TOOLS
--***Qunatization:*** GPTQ 4bit
--***PEFT:*** QLoRA
--***Training:*** HuggingFace Accelerate with Training Loop
+- ***Qunatization:*** GPTQ 4bit
+- ***PEFT:*** QLoRA
+- ***Training:*** HuggingFace Accelerate with Training Loop
 
 # Models and Datasets
--***Pre-Trained Model:*** Llama-2-7b-Chat-GPTQ
--***Dataset:*** flytech/python-codes-25k dataset
+- ***Pre-Trained Model:*** Llama-2-7b-Chat-GPTQ
+- ***Dataset:*** flytech/python-codes-25k dataset
 
 
 # Hugging Face
