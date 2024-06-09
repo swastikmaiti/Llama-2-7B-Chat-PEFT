@@ -1,10 +1,10 @@
 # Llama2-7B-Chat-PEFT
 
-In this work we have implemented the concept of Quantization and Parameter Efficient Fine Tuning (PEFT) on Llama2 7B model.
-Quantization and PEFT are the major tools that support large scale adoption of LLM. Quantization offers the benifit of fitting a
-Memory Intensive Model into smaller spaces while preserving accuracy. PEFT allows us to fine tune Very Large Models even with limited
-resources. Without PEFT it would be impossible for most of us to fine-tune LLM. There are several existing approach to both Quantization and PEFT.
-Here we limit to application to GPTQ quantization and LoRA PEFT.
+In this work we have implemented the concept of Quantization and Parameter Efficient Fine Tuning (PEFT) on Llama2 7B model. 
+Quantization and PEFT are the major tools that support large scale adoption of LLM. Quantization offers the benifit of fitting a 
+Memory Intensive Model into smaller spaces while preserving accuracy. PEFT allows us to fine tune Very Large Models even with 
+limited resources. Without PEFT it would be impossible for most of us to fine-tune LLM. There are several existing approach to both 
+Quantization and PEFT. Here we limit to application to GPTQ quantization and LoRA PEFT.
 
 
 
